@@ -60,6 +60,7 @@ Instead of exposing vulnerable SSH keys, configuring fragile VPN tunnels, or ope
 
 | Repository | Scope & Purpose | Visibility |
 |---|---|---|
+| **[NodeCommand](https://github.com/NodeCommand/NodeCommand)** | Primary public portal, quickstart guides (`npx node-command`), client manifests, and examples. | `Public` |
 | **[nc-platform](https://github.com/NodeCommand/nc-platform)** | The central multi-tenant control plane, zero-dependency SQLite WAL backend, Caddy edge, and Web Console. | `Private` |
 | **[nc-agent](https://github.com/NodeCommand/nc-agent)** | Native cross-platform background workers and privileged service helpers across Linux, Windows, and macOS. | `Public` |
 | **[nc-protocol](https://github.com/NodeCommand/nc-protocol)** | Canonical MCP tool surfaces, JSON Schema 2020-12 specifications, and Standard Schema validation types. | `Public` |
